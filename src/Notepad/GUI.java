@@ -43,7 +43,7 @@ class GUI implements ActionListener{
 	//craete object of function_file class
 	Function_File file=new Function_File(this);
 	
-	//create object of format class 
+	//create object of format class
 	Format format=new Format(this);
 	
 	//create object of color class
